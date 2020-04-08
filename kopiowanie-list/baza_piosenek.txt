@@ -1,0 +1,21 @@
+path1.mp3;Michael Jackson;Care About Us;4
+path2.mp3;Dire Straits;Money For Nothing;5
+path3.mp3;Black Violin;A Flat;11
+path4.mp3;Ludwig van Bethoven;Dla Elizy;6
+path5.mp3;Tom Walker;Leave a Light On;15
+path6.mp3;Lady Pank;Stacja Warszawa;3
+path7.mp3;Evanescence;Bring Me To Life;21
+path8.mp3;Gnus;Numb;19
+path9.mp3;Robin Schulz ft. James Blunt;Ok;18
+path10.mp3;Robin Schulz ft. Francesco Yates;Sugar;16
+path11.mp3;Abstract Future;Nothing To Lose;17
+path12.mp3;Chuck Berry;Johnny B Good;11
+path13.mp3;Kenn Colt ft. Nari Milani;Come Back To Me Official;10
+path14.mp3;Sublime;What I Got;9
+path15.mp3;System of a Down;Roulette;5
+path16.mp3;Piotr Czajkowski;Jezioro łabędzie;3
+path17.mp3;Mary J Blige ft. U2;One;14
+path18.mp3;Sia;Never Give Up;20
+path19.mp3;Incubus;Drive;10
+path20.mp3;Lindsay Stirling;Underground;15
+path21.mp3;Lindsay Stirling;Arena;17
